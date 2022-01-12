@@ -4,7 +4,7 @@ Companion PCBs for Hartk1213s DOOM PCB for Voron AB
 ![PXL_20220112_205213170 — kopia — kopia](https://user-images.githubusercontent.com/77267254/149230442-a3ccf60a-7ade-49d7-8357-8b0601e5c386.jpg)
 
 
-Pins in sockets are placed 1 to 1 as in [Hartk1213s DOOM PCB](https://github.com/VoronDesign/Voron-Hardware/tree/master/Afterburner_Toolhead_PCB0)
+Pins in sockets are placed 1 to 1 as in [Hartk1213s DOOM PCB](https://github.com/VoronDesign/Voron-Hardware/tree/master/Afterburner_Toolhead_PCB)
 
 ```
 24V  - HE0 +V
