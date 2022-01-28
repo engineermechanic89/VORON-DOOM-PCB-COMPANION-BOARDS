@@ -1,7 +1,7 @@
 BOM
 
 
-| First Header  | Second Header | Second Header |
+|               | Part          | Quantity      |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| 1             | Content Cell  | Content Cell  |
+| 2             | Content Cell  | Content Cell  |
