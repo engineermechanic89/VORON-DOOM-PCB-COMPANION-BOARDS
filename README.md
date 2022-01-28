@@ -1,7 +1,7 @@
 # VORON-DOOM-PCB-COMPANION-BOARDS
-Companion PCBs for Hartk1213s DOOM PCB for Voron AB
+Companion PCBs for Hartk1213s DOOM PCB for Voron AB/SB
 
-![PXL_20220112_205213170 — kopia — kopia](https://user-images.githubusercontent.com/77267254/149230442-a3ccf60a-7ade-49d7-8357-8b0601e5c386.jpg)
+![PXL_20220127_204245343 — kopia](https://user-images.githubusercontent.com/77267254/151565178-9fb27855-efce-462b-b7da-39c27082f4ed.jpg)
 
 
 Pins in sockets are placed 1 to 1 as in [Hartk1213s DOOM PCB](https://github.com/VoronDesign/Voron-Hardware/tree/master/Afterburner_Toolhead_PCB)
