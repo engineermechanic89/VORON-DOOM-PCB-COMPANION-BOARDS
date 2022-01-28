@@ -23,6 +23,7 @@ S1B  - Blue Stepper Wire
 S2B  - Black Stepper Wire 
 ```
 
-![PINS](https://user-images.githubusercontent.com/77267254/149229790-a6fce2e9-10ef-4a3a-bd5b-14b2f3e06d85.png)
+![PINS][image](https://user-images.githubusercontent.com/77267254/151566695-104cbc76-7a09-4483-93c6-c3ef7aab6f5c.png)
+
 
 
