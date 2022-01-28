@@ -3,5 +3,5 @@ BOM
 
 |               | Part          | Quantity      |
 | ------------- | ------------- | ------------- |
-| 1             | Content Cell  | Content Cell  |
-| 2             | Content Cell  | Content Cell  |
+| 1             | 43045-1400 MOLEX  | 1  |
+| 2             | 43045-0201 MOLEX  | 1 (ERCF only)  |
