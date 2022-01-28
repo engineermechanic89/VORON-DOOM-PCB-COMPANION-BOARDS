@@ -8,5 +8,4 @@ BOM
 | 3             | jst xh 2.54 2pin socket  | 6 (standard)  |
 |               | jst xh 2.54 2pin socket  | 8 (ERCF)  |
 | 4             | jst xh 2.54 4pin socket  | 1  |
-
-
+| 5             | ARK3/508 | 1  |
