@@ -25,5 +25,8 @@ S2B  - Black Stepper Wire
 
 ![Companion_Pins](https://user-images.githubusercontent.com/77267254/151566865-f2e9235d-1d11-4107-9a7a-287574322da8.jpg)
 
+Stealthburner version:
+
+<img width="1148" alt="sb" src="https://user-images.githubusercontent.com/77267254/168442556-b1cb5c82-2540-475d-b3d6-50bc63a45d0f.png">
 
 
